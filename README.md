@@ -21,6 +21,7 @@ The visualization shows all the automobile streets of the city of Almaty.
 - Central areas are planned with a grid, new areas are adapted to the landscape.
 
 - Visualization shows the stages of the city's growth.
-- 
+
+
 This visualization helps to better understand the structure and development of Almaty!
 
