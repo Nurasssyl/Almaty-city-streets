@@ -1,3 +1,3 @@
 # Almaty-city-streets
 
-!()[Almaty streets.png]
+!()[almaty_street_network.png]
